@@ -27,4 +27,4 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 - **Description**: The HONOR Choice Watch for Students is an affordable smartwatch offering sleep tracking, fitness features, and voice control, designed to help students improve their sleep quality and overall well-being.
 - **My Role**: I analyzed quantitative survey data to identify trends and key insights. I categorized sleep barriers, synthesized desired smartwatch features, and linked these findings to actionable recommendations, such as focusing on affordability and adding stress management tools.
 
-[Documentation](Proper analysis of data.pdf)
+[Documentation](file:///Users/asemay/Downloads/Smart%20Watch%20to%20Better%20Sleep%20Tracking.pdf)
