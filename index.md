@@ -35,23 +35,23 @@ I’m always up for new projects or collaborations! Feel free to reach out to me
 
 <style>
   h1 {
-    color: #4CAF50;  /* green color for the main heading */
+    color: #2e3d49;  /* Dark grayish blue for main header */
   }
 
   h2 {
-    color: #2196F3;  /* blue color for subheadings */
+    color: #4e5b65;  /* Softer gray-blue for subheadings */
   }
 
   p, li {
-    color: #333;  /* dark gray for general text */
+    color: #333;  /* Standard dark gray for general text */
   }
 
   a {
-    color: #FF5722;  /* orange color for links */
+    color: #007acc;  /* Soft blue color for links */
   }
 
   a:hover {
-    color: #FF9800;  /* orange color for hover effect */
+    color: #005f8f;  /* Slightly darker blue for link hover effect */
   }
 </style>
 
