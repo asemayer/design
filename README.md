@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Asemay Rasilkhan | UX/UI Designer Portfolio
+title: Asemay Rasilkhan
 ---
 
 # Hi, I'm **Asemay Rasilkhan**!
