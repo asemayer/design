@@ -9,7 +9,7 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 
 ## Featured Projects
 
-### 1. **[Project Name]**
+### 1. **RoboMed**
 - **Description**: Briefly describe the project, its goals, and challenges.
 - **My Role**: Specify your role (e.g., UX Designer, UI Designer, Researcher).
 - **Tools Used**: List tools (e.g., Figma, Adobe XD, Sketch).
@@ -19,7 +19,7 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 
 ---
 
-### 2. **[Another Project Name]**
+### 2. **SDU postomat**
 - **Description**: Brief overview of the project.
 - **My Role**: Your responsibilities.
 - **Tools Used**: Key tools and methods.
@@ -29,10 +29,10 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 
 ---
 
-## Other Projects
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+### 3. **[Another Project Name]**
+- **Description**: Brief overview of the project.
+- **My Role**: Your responsibilities.
+- **Tools Used**: Key tools and methods.
+- **Outcome**: Results or feedback.
 
-## Let’s Collaborate
-Feel free to [Contact Me](contact.md) for more information or to discuss potential collaborations!
+[View Case Study](link-to-another-project-details)
