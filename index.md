@@ -35,11 +35,11 @@ I’m always up for new projects or collaborations! Feel free to reach out to me
 
 <style>
   h1 {
-    color: #2e3d49;  /* Dark grayish blue for main header */
+    color: #1e3a8a;  /* Deep blue for the main heading */
   }
 
   h2 {
-    color: #4e5b65;  /* Softer gray-blue for subheadings */
+    color: #3b82f6;  /* Bright blue for subheadings */
   }
 
   p, li {
@@ -47,11 +47,10 @@ I’m always up for new projects or collaborations! Feel free to reach out to me
   }
 
   a {
-    color: #007acc;  /* Soft blue color for links */
+    color: #3b82f6;  /* Blue color for links */
   }
 
   a:hover {
-    color: #005f8f;  /* Slightly darker blue for link hover effect */
+    color: #2563eb;  /* Darker blue for link hover effect */
   }
 </style>
-
