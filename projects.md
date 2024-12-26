@@ -36,3 +36,42 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 - **Outcome**: Results or feedback.
 
 [documentation](link-to-another-project-details)
+
+<style>
+  h1 {
+    color: #1e3a8a;  /* Deep blue for the main heading */
+  }
+
+  h2 {
+    color: #3b82f6;  /* Bright blue for subheadings */
+  }
+
+  p, li {
+    color: #333;  /* Standard dark gray for general text */
+  }
+
+  a {
+    color: #3b82f6;  /* Blue color for links */
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #2563eb;  /* Darker blue for link hover effect */
+  }
+
+  .project-container {
+    text-align: center;  /* Centering the content */
+    margin-bottom: 30px;
+  }
+
+  .project-container h3 {
+    font-size: 1.5rem;
+    color: #1e3a8a;
+  }
+
+  .project-container p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+</style>
+
