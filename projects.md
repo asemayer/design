@@ -7,8 +7,6 @@ title: Projects
 
 Here is a collection of my UX/UI design projects. Each project showcases my approach, skills, and problem-solving techniques.
 
-## Featured Projects
-
 ### 1. **RoboMed**
 - **Description**: RoboMed aimed to provide on-campus healthcare with a robot offering an integrated pharmacy and first aid kit, focusing on user-friendly design and quick access to supplies.
 - **My Role**: In the "RoboMed" project, I worked as a Research Analyst and UX/UI Designer. My tasks included interviewing students, staff, and stakeholders to understand their needs, summarizing key points from the interviews, and creating the robot's screen design to make it simple and easy to use.
