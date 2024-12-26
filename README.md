@@ -1,6 +1,6 @@
 ## Навигация
 - [About](about.md)
-- [Projects](projects/)
+- [Projects](projects.md)
 - [Contact](contact.md)
 
 ## Контакты
