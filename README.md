@@ -7,9 +7,6 @@
 - [Projects](projects/)
 - [Contact](contact.md)
 
-## Примеры работ
-![Дизайн интерфейса](assets/img/example_design.png)
-
 ## Контакты
 - **Email:** asemay.me@gmail.com
 - [LinkedIn](www.linkedin.com/in/asemayer)
