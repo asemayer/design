@@ -1,13 +1,7 @@
-#title: Asemay Rasilkhan
-#logo: /assets/img/headshot_circle.png # Если есть логотип или фото
-#description: UX/UI Designer
-#show_downloads: false # Если не нужны ссылки на скачивание файлов
-#theme: Jekyll-theme-minimal # Минималистичная тема
-#baseurl: "" # Оставь пустым, если это основной репозиторий
-#url: "https://asemayer.github.io/design" # Ссылка на твой сайт
-
 title: Asemay Rasilkhan
-#logo: /assets/img/headshot_circle-png
-#description: dext below image 
-#show_downloads: true 
-theme: Jekyll-theme-minimal
+#logo: /assets/img/headshot_circle.png # Если есть логотип или фото
+description: UX/UI Designer
+show_downloads: false # Если не нужны ссылки на скачивание файлов
+theme: Jekyll-theme-minimal # Минималистичная тема
+baseurl: "" # Оставь пустым, если это основной репозиторий
+url: "https://asemayer.github.io/design" # Ссылка на твой сайт
