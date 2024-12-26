@@ -25,7 +25,7 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 - **Tools Used**: Key tools and methods.
 - **Outcome**: Results or feedback.
 
-[View Case Study](link-to-another-project-details)
+[View Case Study](UX_UI design project 2.pdf)
 
 ---
 
