@@ -15,7 +15,7 @@ Here is a collection of my UX/UI design projects. Each project showcases my appr
 - **Tools Used**: List tools (e.g., Figma, Adobe XD, Sketch).
 - **Outcome**: Highlight key achievements (e.g., "Increased user engagement by 30%").
 
-[View Case Study](link-to-project-details)
+[View Case Study](Group Documentation (1).pdf)
 
 ---
 
