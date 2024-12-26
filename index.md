@@ -13,7 +13,7 @@ I’ve been involved in UX/UI design as part of my general area electives. I hav
 
 - **Experience**: I worked for a year as a quality control manager, which helped me understand the importance of details and usability.
 - **Skills**: Prototyping, Wireframing, User Research, Usability Testing.
-- **Languages**: English.
+- **Languages**: Kazakh, English, Russian, Turkish.
 
 ## My Design Approach
 
