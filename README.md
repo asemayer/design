@@ -1,3 +1,8 @@
+---
+layout: default
+title: My Portfolio
+---
+
 ## Навигация
 - [About](about.md)
 - [Projects](projects.md)
