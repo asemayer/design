@@ -26,6 +26,8 @@ I believe that great design is not just about aesthetics—it’s about solving 
 
 In the [Projects](projects.md) section, you can check out some of the projects I’ve worked on. They show how I take feedback and make designs that fit the users' needs while keeping things simple.
 
+For each project, I’ve also included my [Reflections](), where I share insights into my design process, the challenges I faced, and how I tackled them. This section provides a deeper look at my approach to UX/UI design, helping you understand how I view design as an ongoing problem-solving journey that evolves through iteration and feedback.
+
 ## Contact
 
 - **Email**: [asemay.me@gmail.com](mailto:asemay.me@gmail.com)
